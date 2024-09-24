@@ -1,6 +1,6 @@
 # VMUnet-MSADI
 
-This is the official code repository for "VMUnet-MSADI：Visual Mamba UNet Fusion Multi-Scale Attention and Detail Infusion for Unsound Corn Kernels Recognition". {[Arxiv Paper](https://)}
+This is the official code repository for "VMUnet-MSADI：Visual Mamba UNet Fusion Multi-Scale Attention and Detail Infusion for Unsound Corn Kernels Recognition".
 
 ![framework](img/framework.png)
 

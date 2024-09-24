@@ -2,8 +2,6 @@ from .mamba_vision import MambaVision, mamba_vision_T, MambaVision_sim
 import torch
 from torch import nn
 
-# by mingya zhang  dg20330034@smail.nju.edu.cn 2024 08 16
-
 class MSADIUNet(nn.Module):
     
     def __init__(self, 
